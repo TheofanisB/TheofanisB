@@ -8,7 +8,7 @@ Graduate with a Master’s degree in Information and Communication Systems Engin
 
 * 🌍  I'm based in Greece
 * 🚀  I'm currently working on [Creating Tools that utilize Chat GPT](http://github.com/TheofanisB)
-* 🧠  I'm learning How to use DevOps tools and adding ChatGPT
+* 🧠  I'm learning How to use DevOps tools and adding OpenAI
 * ⚡  Always tinkering with my Raspberry Pi 4B
 
 ### Skills
