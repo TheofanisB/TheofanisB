@@ -7,8 +7,8 @@ Aspriring Software Dev. Hardware Enthusiast. RGB Hater.
 Graduate with a Master’s degree in Information and Communication Systems Engineering. Self-motivated website and app developer. Tinkering with everything tech.
 
 * 🌍  I'm based in Greece
-* 🚀  I'm currently working on [Creating Tools that utilize Chat GPT](http://github.com/TheofanisB)
-* 🧠  I'm learning How to use DevOps tools and adding OpenAI
+* 🚀  I'm currently working on [Creating Tools that utilize OpenAI](http://github.com/TheofanisB)
+* 🧠  I'm learning How to use DevOps tools
 * ⚡  Always tinkering with my Raspberry Pi 4B
 
 ### Skills
