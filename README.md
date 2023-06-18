@@ -8,7 +8,7 @@ Graduate with a Master’s degree in Information and Communication Systems Engin
 
 * 🌍  I'm based in Greece
 * 🚀  I'm currently working on [Creating Tools that utilize OpenAI](http://github.com/TheofanisB)
-* 🧠  I'm learning How to use DevOps tools
+* 🧠  I'm learning How to use Automated Testing Tools
 * ⚡  Always tinkering with my RPi 4B/ ESP8266 Boards
 
 ### Skills
