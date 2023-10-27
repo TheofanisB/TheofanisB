@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspriring Software Tester. Hardware Enthusiast. RGB Hater.
 -------------------------------------------------------
 
-Graduate with a Master’s degree in Information and Communication Systems Engineering. Self-motivated website and app developer. Tinkering with everything tech.
+Graduate with a Master’s degree in Information and Communication Systems Engineering that works as a QA Tester since May 2022. Self-motivated website and app developer. Tinkering with everything tech.
 
 * 🌍  I'm based in Greece
 * 🚀  I'm currently working on [Creating Tools that utilize OpenAI](http://github.com/TheofanisB)
